@@ -24,7 +24,7 @@ source bin/setup.sh
 ```
 
 This will install Python 3.9, make it the default, modify the bash prompt, create a Python virtual environment and activate it.
-
+ 
 After sourcing it you prompt should look like this:
 
 ```bash
